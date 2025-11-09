@@ -1,0 +1,5 @@
+{
+  "name": "Yahoo Finance Sentiment Scraper",
+  "description": "An application that analyzes and displays the sentiment of community comments for a given stock symbol from Yahoo Finance over the last 30 days, using AI to generate sentiment data.",
+  "requestFramePermissions": []
+}
